@@ -25,4 +25,4 @@
 
 ## Графична тема
 
-Проекта използва темата [Bootstrap](https://www.drupal.org/project/bootstrap).
+Проекта използва темата [Bootstrap](https://www.drupal.org/project/bootstrap) с добавен custom css код за леки промени.
